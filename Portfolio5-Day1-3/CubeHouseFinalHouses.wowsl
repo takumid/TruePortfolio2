@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>CubeHouseFinalHouses</GalleryName>
+            <GallerySuffix>4</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>77</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioSlide4Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide4Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Final Elevation.JPG</url>
+                <title>Elevation</title>
+                <description>Taken from the &quot;Eastern Side&quot; of the site
+Drafted in pencil</description>
+                <filesize>668561</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/FinalParaline.JPG</url>
+                <title>Paraline Section</title>
+                <description>Taken through the &quot;South side&quot; of the site
+Drafted in pencil</description>
+                <filesize>557441</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Final Plan.jpg</url>
+                <title> Plan</title>
+                <description>Drafted and rendered in pencil</description>
+                <filesize>750004</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/FinalPrespective2.jpg</url>
+                <title>Sectional Perspective</title>
+                <description>Drafted and rendered in pencil</description>
+                <filesize>523607</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Different Overall.JPG</url>
+                <title>Model</title>
+                <description>20&quot; x 20&quot;. 
+Basswood and sandpaper</description>
+                <filesize>2891012</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Overall.JPG</url>
+                <filesize>1219435</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/StudyModel.JPG</url>
+                <title>Study Model</title>
+                <description>Basic shape and form of the cube house.</description>
+                <filesize>2386670</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Above Dissection.JPG</url>
+                <filesize>984918</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Bird's Eye.JPG</url>
+                <filesize>923522</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Dissected Cube.JPG</url>
+                <filesize>3605296</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/House Profile.JPG</url>
+                <filesize>3432755</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Inside Look.JPG</url>
+                <filesize>4094984</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Cube House/Through the Path.JPG</url>
+                <filesize>2764757</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

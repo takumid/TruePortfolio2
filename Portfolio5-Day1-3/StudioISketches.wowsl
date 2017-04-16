@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>StudioISketches</GalleryName>
+            <GallerySuffix>2</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioStartProjects.html</PublishFileName>
+            <PublishIndex>PortfolioStartProjects.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/CFAPlan.jpg</url>
+                <title>CFA Plan</title>
+                <description>Precursor Sketch to Section and Plan of CFA</description>
+                <filesize>115820</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/ContiTree.jpg</url>
+                <title>Conti Tree</title>
+                <filesize>225260</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/Dinosaur.jpg</url>
+                <title>Dinosaur Sketches</title>
+                <description>Precursor Sketches to Fossil Chasm</description>
+                <filesize>256057</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/Fan.jpg</url>
+                <title>Fan</title>
+                <filesize>285858</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/HybridI.jpg</url>
+                <title>Hybrid I Sketch</title>
+                <filesize>161829</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/Paraline Sketch.jpg</url>
+                <title>Paraline Sketch</title>
+                <description>Sketch of Knee Residence Paraline concept</description>
+                <filesize>201464</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/Road.jpg</url>
+                <title>Road</title>
+                <description>Sketch of Road in Point Breeze, Pittsburgh, Pennsylvania</description>
+                <filesize>128192</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Studio + Others/SawSketch.jpg</url>
+                <title>Saw Sketches</title>
+                <description>Conceptual sketches of Handsaw Space</description>
+                <filesize>130991</filesize>
+                <rotate>270</rotate>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

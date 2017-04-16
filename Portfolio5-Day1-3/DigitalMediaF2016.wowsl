@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>DigitalMediaF2016</GalleryName>
+            <GallerySuffix>6</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioSlide6Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide6Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/First Media Assignment/jordand_assignment3.jpg</url>
+                <title>Donner Submerged</title>
+                <description>First class Adobe Photoshop experimentation </description>
+                <filesize>710057</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/jordand_assignment4-01.jpg</url>
+                <title>First Illustrator Project</title>
+                <description>Based on template. Edited via Adobe Illustrator.</description>
+                <filesize>501793</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/Initial Stairs/Assignment 7 Screenshot.png</url>
+                <title>Rhinoceros Stairs</title>
+                <description>Based on template. Created via Rhinoceros.</description>
+                <filesize>722654</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/VRay Rndering/Render Test 7.jpg</url>
+                <title>Domino House (Exterior)</title>
+                <description>Based on Le Corbusier's 1914 Domino House concept. Created via Rhinoceros</description>
+                <filesize>26149</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/VRay Rndering/Davis_IntRender2.jpg</url>
+                <title>Domino House (Interior)</title>
+                <filesize>93725</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Fall2016DigitalMedia/Assignment 14/Davis_ImageBackground.png</url>
+                <title>Rhinoceros Model Rendering </title>
+                <description>Model made in Rhinoceros. Rendering and editing made via Adobe Photoshop.</description>
+                <filesize>3565659</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/WebPortfolioMat/Assignments/Assignment 16/jordand_assignment16.jpg</url>
+                <title>Knee Residence Hybrid Collage</title>
+                <description>Based on Analog Media study of Knee Residence. Created via Adobe Photoshop. </description>
+                <filesize>497930</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

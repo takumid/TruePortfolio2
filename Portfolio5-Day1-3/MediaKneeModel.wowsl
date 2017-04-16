@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>18</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>MediaKneeModel</GalleryName>
+            <GallerySuffix>5</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioSlide5Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide5Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000000</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/Davis_KneeResidence_elevation.jpg</url>
+                <title>Knee Residence Elevation</title>
+                <description>Drafted in pencil.
+Illusrated from north side of building</description>
+                <filesize>107763</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/Davis_KneeResidence_section.jpg</url>
+                <title>Knee Residence Section</title>
+                <description>Drafted in pencil.
+Illustrated from north side of building.</description>
+                <filesize>105103</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/Davis_KneeResidence_plan.jpg</url>
+                <title>Knee Residence Plan</title>
+                <description>Drafted in pencil.</description>
+                <filesize>143839</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/davis_assignment13_paraline.jpg</url>
+                <title>Knee Residence Paraline</title>
+                <description>Drafted in pencil.
+</description>
+                <filesize>2460922</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/KneeModel.JPG</url>
+                <title>Knee Residence Model</title>
+                <description>Strathmore, cardboard, and chipboard model.
+Partnered with two colleagues (Harrison Branch-Shaw and Christoph Eckrich) to construct.</description>
+                <filesize>3328069</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/KneeInterior.jpg</url>
+                <title>Knee Model Interior</title>
+                <description>Strathmore, cardboard, and chipboard model.</description>
+                <filesize>4403371</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-120 Media I/Assignment 18; Portfolio/AnalogMedia/KneeModel2.JPG</url>
+                <filesize>3599429</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

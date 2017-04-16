@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>CarCrankProject1</GalleryName>
+            <GallerySuffix>7</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioSlide7Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide7Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/original.jpg</url>
+                <title>Subject: Car Crank </title>
+                <description>Principle subject for movement, physicality, and design for Project 1 Final Model</description>
+                <filesize>449384</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/IMG_5639.JPG</url>
+                <title>Flour Sifter</title>
+                <description>Secondary subject for Project 1 Final Model</description>
+                <filesize>1498447</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 1/IMG_5327.JPG</url>
+                <title>Crank Movement Sketches</title>
+                <filesize>705092</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 2/IMG_5385.JPG</url>
+                <title>Initial Objective Crank Drawing</title>
+                <description>To study the tool's physicality</description>
+                <filesize>415305</filesize>
+                <rotate>180</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 3/Weekend 3/IMG_5478.JPG</url>
+                <title>Initial Motion Crank Drawing</title>
+                <description>To measure the tool's movement and capacity</description>
+                <filesize>532902</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 3/Weekend 3/IMG_5435.JPG</url>
+                <filesize>2080529</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 3/Weekend 3/IMG_5475.JPG</url>
+                <filesize>2144919</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 4/IMG_5494.JPG</url>
+                <title>Inital Section Drawing 1</title>
+                <description>Based on Initial Motion Crank Drawing</description>
+                <filesize>658630</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 4/IMG_5497.JPG</url>
+                <title>Initial Section Drawing 2</title>
+                <description>Based on Initial Motion Crank Drawing</description>
+                <filesize>695913</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 4/IMG_5511.JPG</url>
+                <title>Study Model</title>
+                <description>Based on Initial Section Drawing 1</description>
+                <filesize>628337</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 4/IMG_5515.JPG</url>
+                <title>Study Model 2</title>
+                <description>Based on Initial Section Drawing 2</description>
+                <filesize>611870</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 5/IMG_5523.JPG</url>
+                <filesize>682674</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 5/IMG_5524.JPG</url>
+                <title>Study Model 3</title>
+                <filesize>1067846</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 5/IMG_5554.JPG</url>
+                <title>Study Model (?)</title>
+                <description>Provided by partner Michael Longo</description>
+                <filesize>905025</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 6/IMG_5589.JPG</url>
+                <filesize>1709701</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 6/Section002.jpg</url>
+                <filesize>14188756</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 6/IMG_5566.JPG</url>
+                <title>Study Model 4</title>
+                <description>Based on previous drawing</description>
+                <filesize>1822472</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 7/IMG_5594.JPG</url>
+                <title>Study Model 5</title>
+                <filesize>1717223</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/IMG_5660.JPG</url>
+                <title>Project 1 Final Model</title>
+                <filesize>1234209</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/IMG_5664.JPG</url>
+                <filesize>1604949</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/IMG_5671.JPG</url>
+                <filesize>2019577</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Model Paraline.jpg</url>
+                <title>Model Paraline</title>
+                <filesize>308617</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Front Elevation.jpg</url>
+                <title>Front Elevation</title>
+                <filesize>262524</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Profile Elevation 2.jpg</url>
+                <title>Profile Elevation 2</title>
+                <filesize>242266</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Profile Elevation.jpg</url>
+                <title>Profile Elevation</title>
+                <filesize>266753</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Dowel Dimensions.jpg</url>
+                <title>Dowel Dimensions</title>
+                <filesize>216108</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Stair Elevation.jpg</url>
+                <title>Stair Elevation</title>
+                <filesize>240461</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Exploded View.jpg</url>
+                <title>Exploded View</title>
+                <filesize>330005</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 8/Model Elevation.jpg</url>
+                <title>Model Elevation</title>
+                <filesize>307191</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

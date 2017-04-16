@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>MediaIAnalogWork</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2/PortfolioSlidePage1.html</PublishFileName>
+            <PublishIndex>PortfolioSlidePage1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day 4-6/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>7</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Aug30_1.JPG</url>
+                <title>Pen Drawing 1</title>
+                <description>Drawn on August 30,2016</description>
+                <filesize>452521</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Aug30_4.JPG</url>
+                <title>Pen Drawing 2</title>
+                <description>Drawn on August 30, 2016</description>
+                <filesize>492571</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Aug30_2.JPG</url>
+                <title>Conti 1</title>
+                <description>Drawn on August 30, 2016</description>
+                <filesize>535425</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Aug30_3.JPG</url>
+                <title>Conti 2</title>
+                <description>Drawn on August 30, 2016</description>
+                <filesize>519706</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct3_1.JPG</url>
+                <title>Space Series</title>
+                <description>Drawn in Pencil; October 3, 2016</description>
+                <filesize>534152</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct3_2.JPG</url>
+                <title>Space Series 2</title>
+                <description>Drawn in Pencil; October 3, 2016</description>
+                <filesize>491332</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct3_3.JPG</url>
+                <title>Space Series 3</title>
+                <description>Drawn in Pencil; October 3, 2016</description>
+                <filesize>451553</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct3_4.JPG</url>
+                <title>Space Series 4</title>
+                <description>Drawn in Pencil; October 3, 2016</description>
+                <filesize>563173</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct7_1.JPG</url>
+                <title>Charcoal 1</title>
+                <description>Drawn on October 7, 2016
+College of Fine Arts, CMU</description>
+                <filesize>713685</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct7_2.JPG</url>
+                <title>Charcoal 2</title>
+                <description>Drawn on October 7, 2016
+College of Fine Arts, CMU</description>
+                <filesize>880530</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct7_3.JPG</url>
+                <title>Charcoal 3</title>
+                <description>Drawn on October 7, 2016
+College of Fine Arts, CMU</description>
+                <filesize>909245</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct10.JPG</url>
+                <title>Saw Exercise</title>
+                <description>Drawn in Pencil; October 10, 2016</description>
+                <filesize>397873</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Oct14.JPG</url>
+                <title>Handsaw Space </title>
+                <description>Drawn in Charcoal; October 17, 2016</description>
+                <filesize>883128</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept2_1.JPG</url>
+                <title>Conti 1</title>
+                <description>Drawn on September 2, 2016
+Margaret Morrison Carnegie Hall, CMU </description>
+                <filesize>691155</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept2_2.JPG</url>
+                <title>Conti 2</title>
+                <description>Drawn on September 2, 2016
+College of Fine Arts, CMU </description>
+                <filesize>772481</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept6_1.JPG</url>
+                <title>Conti Exercise 1</title>
+                <description>Drawn on September 6, 2016
+</description>
+                <filesize>592412</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept6_2.JPG</url>
+                <title>Conti Exercise 2</title>
+                <description>Drawn on September 6, 2016
+</description>
+                <filesize>836469</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept6_3.jpg</url>
+                <title>Conti Exercise 3</title>
+                <description>Drawn on September 6, 2016
+</description>
+                <filesize>693048</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept9_1.JPG</url>
+                <title>Conti Exercise 1</title>
+                <description>Drawn on September 9, 2016
+</description>
+                <filesize>582445</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept9_2.JPG</url>
+                <title>Conti Exercise 2</title>
+                <description>Drawn on September 9, 2016
+Gates Hillman Center, CMU</description>
+                <filesize>546982</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept10_1.JPG</url>
+                <title>Conti 1</title>
+                <description>Drawn on September 10, 2016
+College of Fine Arts, CMU</description>
+                <filesize>798963</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept10_2.jpg</url>
+                <title>Conti 2</title>
+                <description>Drawn on September 10, 2016
+Margaret Morrison Carnegie Hall, CMU</description>
+                <filesize>894438</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept12.JPG</url>
+                <title>Bike Outline</title>
+                <description>Drawn in conti, September 12, 2016</description>
+                <filesize>686516</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept16.JPG</url>
+                <title>Fossil Chasm</title>
+                <description>Drawn on September 16, 2016
+Carnegie Museum of Natural History</description>
+                <filesize>1094545</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept18.JPG</url>
+                <title>Section and Plan of CFA</title>
+                <description>Drawn in pencil; September, 18, 2016</description>
+                <filesize>724580</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept25_1.JPG</url>
+                <title>Subtractive Cube</title>
+                <description>Drawn in pencil; September 25, 2016</description>
+                <filesize>285978</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept25_2.JPG</url>
+                <title>Subtractive Cube Axonometric</title>
+                <description>Drawn in pencil; September 25, 2016</description>
+                <filesize>485488</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept35_1.JPG</url>
+                <title>Conti Exercise 1</title>
+                <description>September 5, 2016
+Outside Margaret Morrison Carnegei Hall, CMU</description>
+                <filesize>897863</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept35_2.jpg</url>
+                <title>Conti Exercise 2</title>
+                <description>September 5, 2016
+Point Breeze, Pittsburgh</description>
+                <filesize>1090176</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept35_3.JPG</url>
+                <title>Conti Exercise 3</title>
+                <description>September 5, 2016
+Outside Gates Hillman Center, CMU</description>
+                <filesize>831100</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept35_4.jpg</url>
+                <title>Conti Exercise 4</title>
+                <description>September 5, 2016
+Hamerschlag House, CMU</description>
+                <filesize>966426</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Fall 2016/48-100 Arch Studio I/Assignments/Studio/Sept35_5.JPG</url>
+                <title>Conti Exercise 5</title>
+                <description>September 5, 2016
+Margaret Morrison Carnegei Hall, CMU</description>
+                <filesize>819266</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

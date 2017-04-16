@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>HuntLibraryProject2</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Documents\WOW Slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Documents\WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/Hunters Point Scans/Capture.PNG</url>
+                <title>Hunters Point Community Library (HPCL) Precedent Diagrams</title>
+                <description>To prepare for altering Hunt Library in CMU</description>
+                <filesize>998500</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/Hunters Point Scans/Capture2.PNG</url>
+                <title>Capture2</title>
+                <description>To prepare for altering Hunt Library in CMU</description>
+                <filesize>600057</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/IMG_5782.JPG</url>
+                <title>HPCL Study Model 1</title>
+                <filesize>1162602</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/IMG_5788.JPG</url>
+                <title>HPCL Study Model 2</title>
+                <filesize>1207094</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/IMG_5793.JPG</url>
+                <title>HPCL Study Model 3</title>
+                <filesize>1025821</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 10/IMG_5798.JPG</url>
+                <title>HPCL Study Model 4</title>
+                <filesize>1535124</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 11/IMG_6033.JPG</url>
+                <title>Hunt Library Study Model 1</title>
+                <description>To analyze and improve upon current nuances and features of Hunt Library</description>
+                <filesize>1845862</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 11/IMG_6046.JPG</url>
+                <title>Hunt Library Study Model 2</title>
+                <filesize>1421383</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 11/IMG_6049.JPG</url>
+                <filesize>1949540</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 11/IMG_6081.JPG</url>
+                <title>Hunt Library Proposal Diagrams</title>
+                <filesize>666879</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 12/IMG_6110.JPG</url>
+                <title>Proposal Study Models</title>
+                <description>To suggest changes to Hunt Library to improve its atmosphere and spatial qualities</description>
+                <filesize>2047244</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 12/IMG_6115.JPG</url>
+                <filesize>1689680</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 12/IMG_6117.JPG</url>
+                <filesize>2438680</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Arch. Studio II/Portfolio/Studio II/Week 12/IMG_6123.JPG</url>
+                <filesize>2248519</filesize>
+                <rotate>90</rotate>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
