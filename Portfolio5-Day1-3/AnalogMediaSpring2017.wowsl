@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>AnalogMediaSpring2017</GalleryName>
+            <GallerySuffix>9</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Documents/GitHub/TruePortfolio2/PortfolioSlide9Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide9Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Documents/GitHub/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio2/IMG_5431.JPG</url>
+                <title>Perspectival Exercise </title>
+                <description>Drawn in pencil.
+Carnegie Museum of Art</description>
+                <filesize>1521261</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio2/IMG_5446.JPG</url>
+                <title>Perspectival Exercise</title>
+                <description>Drawn in pencil.
+College of Fine Arts, CMU</description>
+                <filesize>1055863</filesize>
+                <rotate>90</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio2/IMG_5486.JPG</url>
+                <title>Perspectival Exercise</title>
+                <description>Drawn in pencil.
+Purnell Center of the Arts, CMU</description>
+                <filesize>1001632</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio4/IMG_5612.JPG</url>
+                <title>Chiaroscuro</title>
+                <description>Drawn in black and white pencil on gray charcoal paper.
+College of Fine Arts, CMU</description>
+                <filesize>1791451</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio4/IMG_5652.JPG</url>
+                <title>Chiaroscuro</title>
+                <description>Drawn in black and white pencil on gray charcoal paper.
+College of Fine Arts Facade, CMU</description>
+                <filesize>923966</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6022.JPG</url>
+                <title>Pastel Series</title>
+                <description>College of Fine Arts, CMU</description>
+                <filesize>1059782</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6023.JPG</url>
+                <description>College of Fine Arts Statue, CMU</description>
+                <filesize>1221179</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6019.JPG</url>
+                <description>Plant, CMU</description>
+                <filesize>1148621</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6021.JPG</url>
+                <description>College of Fine Arts Facade, CMU</description>
+                <filesize>1198773</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6043.JPG</url>
+                <description>Margaret Morrison Carnegie Hall, CMU</description>
+                <filesize>1187673</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6041.JPG</url>
+                <description>Baker Hall, CMU</description>
+                <filesize>1538105</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6107.JPG</url>
+                <description>Baker Hall, CMU</description>
+                <filesize>1345177</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6144.JPG</url>
+                <description>Gates Hillman Center, CMU</description>
+                <filesize>925332</filesize>
+                <rotate>270</rotate>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio6/IMG_6141.JPG</url>
+                <description>Gates Hillman Center, CMU</description>
+                <filesize>907675</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>

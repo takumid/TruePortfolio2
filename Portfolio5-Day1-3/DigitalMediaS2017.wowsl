@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>22</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>DigitalMediaS2017</GalleryName>
+            <GallerySuffix>10</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>rotate</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>300</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>true</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/easy/</ImageTemplate>
+            <ImageTemplateName>Easy</ImageTemplateName>
+            <ImageWidth>960</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Takumi/Documents/GitHub/TruePortfolio2/PortfolioSlide10Page1.html</PublishFileName>
+            <PublishIndex>PortfolioSlide10Page1.html</PublishIndex>
+            <PublishPath>C:/Users/Takumi/Documents/GitHub/TruePortfolio2</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>40</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#404449</TemplateColor>
+            <TemplateFont>Exo 2</TemplateFont>
+            <TemplateName>easy</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Day1/3D Diagrams [Converted]-01.png</url>
+                <title>3D Diagram Sample </title>
+                <description>Made via Rhinoceros, Adobe Illustrator, and Adobe InDesign.</description>
+                <filesize>365949</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 1/Surface Diagram.jpg</url>
+                <title>Surface Diagram</title>
+                <description>Made via Rhinoceros, Adobe Illustrator, and Adobe InDesign.</description>
+                <filesize>376491</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 1/Surface Sample.PNG</url>
+                <title>Surface Sample (Original)</title>
+                <filesize>184048</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Days2-4/Crank Render 2.png</url>
+                <title>Car Crank Render</title>
+                <description>Made via Rhinoceros </description>
+                <filesize>254018</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Days2-4/Crank Render.png</url>
+                <filesize>269930</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Days2-4/Crank Variations Render.png</url>
+                <title>Crank Variations Render</title>
+                <filesize>489814</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Days2-4/reviews/Screenshot_0 (1).png</url>
+                <title>Variation of Architectural Proportions</title>
+                <description>Made via Rhinoceros and Modelo</description>
+                <filesize>789742</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio1-Days2-4/reviews/Screenshot_1.png</url>
+                <filesize>1358677</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 2/Variation-Gif.gif</url>
+                <title>Variation Test</title>
+                <description>Made via Rhinoceros</description>
+                <filesize>4189482</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 3/Render 2.png</url>
+                <title>Rendered View</title>
+                <filesize>1124516</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 3/IMG_5546.jpg</url>
+                <title>Rendered (Original) View</title>
+                <description>Made via Rhinoceros and V-Ray rendering.
+Cohon University Center, CMU
+</description>
+                <filesize>1172934</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 4/Section Edit.jpg</url>
+                <title>Section of Hall</title>
+                <description>Made via Rhinoceros, V-Ray, and Adobe Photoshop</description>
+                <filesize>243336</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio3/Day 5/UCGIF.gif</url>
+                <title>Sunpath</title>
+                <description>Made via Rhinoceros and V-Ray rendering</description>
+                <filesize>4771838</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Takumi/Desktop/CMU Courses/Spring 2017/Media II/Portfolio5/Day1-3/FinalKnee.jpg</url>
+                <title>Knee Residence Drawings</title>
+                <description>Made via AutoCAD</description>
+                <filesize>1166497</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
